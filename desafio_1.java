@@ -8,7 +8,7 @@ import java.util.InputMismatchException;
 
 public class desafio_1 {
 	public static void main(String[] args) {
-		System.out.println("Testando essa baranga!");
+		System.out.println("Testando!");
 
 		// Objetivo:
 		/*
