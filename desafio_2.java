@@ -37,7 +37,7 @@ public class desafio_2{
 			boolean ehPrimo = true;
 			
 			//Loop com o divisor igual a 2; 2 menor ou igual a numero que o usuário digitou, vai incrementando a cada vez mais um
-			for(int divisor = 2; divisor <= numberUser; divisor++){
+			for(int divisor = 2; divisor < numberUser; divisor++){
 				//Condição para verificar se é igual a zero o resultado da divisão
 				if(numberUser %divisor ==0){
 					ehPrimo = false;
