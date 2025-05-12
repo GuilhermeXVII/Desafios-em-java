@@ -60,5 +60,6 @@ public class desafio_2{
 		} catch (InputMismatchException e) {
 			System.out.println("Por favor, entre com um número!");
 		}
+		scanner.close();
 	}
 }
