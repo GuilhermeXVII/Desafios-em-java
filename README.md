@@ -1,1 +1,2 @@
 🚀 Repositório dedicado a desafios de lógica em Java. Aqui estou fazendo desafios básicos e vou lançando aos poucos, até porque eu vou lançar um de cada vez. Esse repositório tá desorganizado, sem contar que eu ainda tenho projetos mais importantes para postar. Ainda tenho muita coisa a arrmuar por aqui
+De início era par eu ter organizado em pastas para ficar melhor a visualização deste repositório.
